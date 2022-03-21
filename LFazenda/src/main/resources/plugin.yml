@@ -1,0 +1,8 @@
+name: LFazenda
+version: '${project.version}'
+main: com.uaulight.lfazenda.Main
+authors: [ uauLight ]
+description: Plugin de Farm para seu servidor.
+website: https://skyplugins.com.br/
+commands:
+  fazenda:

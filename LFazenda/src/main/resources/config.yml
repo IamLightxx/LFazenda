@@ -1,0 +1,18 @@
+#######################
+#                     #
+#       LFazenda      #
+#                     #
+#######################
+
+Plantacoes:
+  Planta1: NETHER_WARTS
+  Planta2: CROPS
+
+Worlds:
+  - "Mundo"
+
+Metas:
+  meta1: 10
+
+Mensagens:
+  Atingiu_meta: '&e&l[Fazenda] &eO Jogador &a@jogador&e bateu a meta quebrando um total de &a@meta1&e blocos.'
